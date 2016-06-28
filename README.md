@@ -1,2 +1,2 @@
 # Advanced-Java
-Advanced Java : JSP, Servlet, EJB
+Advanced Java : JDBC, JSP, Servlets
