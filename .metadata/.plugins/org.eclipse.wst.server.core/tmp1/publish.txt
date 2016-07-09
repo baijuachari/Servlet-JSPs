@@ -1,3 +1,2 @@
 #Tomcat publish data
-#Sat Jul 09 18:28:52 EDT 2016
-org.eclipse.jst.jee.server\:SimpleServletOne=C\:\\apache-tomcat-8.0.36\\wtpwebapps\\SimpleServletOne
+#Sat Jul 09 18:32:18 EDT 2016
