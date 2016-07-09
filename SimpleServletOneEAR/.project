@@ -3,7 +3,6 @@
 	<name>SimpleServletOneEAR</name>
 	<comment></comment>
 	<projects>
-		<project>SimpleServletOne</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
