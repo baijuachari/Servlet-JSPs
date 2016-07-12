@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Simple Form to pass parameter to servlet</title>
+</head>
+<body>
+	<form action="xmlServletPath">
+		<p>This is a sample form to pass parameter to XmlServlet</p>
+		<input name="userName" />
+		<input type="submit"/>
+	</form>
+</body>
+</html>

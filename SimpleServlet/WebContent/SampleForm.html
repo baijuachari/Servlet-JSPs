@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Simple Form to pass parameter to servlet</title>
+</head>
+<body>
+	<form method="get" action="xmlServletPath">
+		<p>This is a sample form to pass parameter to XmlServlet</p>
+		User Name: <input name="userName" />
+		Full Name: <input name="fullName" />
+		<br>
+		Profession:
+		<input type="radio" name="prof" value="Developer">Developer </input>
+		<input type="radio" name="prof" value="Architect">Architect </input>
+		<br>
+		<select name="location" multiple size=3>
+			<option value="london">London</option>
+			<option value="paris">Paris</option>
+			<option value="boston">Boston</option>
+			<option value="amsterdam">Amsterdam</option>
+			<option value="argentina">Argentina</option>
+			<option value="peru">Peru</option>
+		</select>
+		<br>
+		<input type="submit" />
+	</form>
+</body>
+</html>
